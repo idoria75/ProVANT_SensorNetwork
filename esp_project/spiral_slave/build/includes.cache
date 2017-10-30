@@ -1,0 +1,202 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/cores/esp8266"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/variants/nodemcu"
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/connection.cpp.cpp",
+    "Include": "ESP8266WiFi.h",
+    "Includepath": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src"
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/connection.cpp.cpp",
+    "Include": "ArduinoJson.h",
+    "Includepath": "/home/ivan/Arduino/libraries/ArduinoJson"
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/connection.cpp.cpp",
+    "Include": "Thread.h",
+    "Includepath": "/home/ivan/Arduino/libraries/ArduinoThread"
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/connection.cpp.cpp",
+    "Include": "ESP8266FtpServer.h",
+    "Includepath": "/home/ivan/Arduino/libraries/esp8266FTPServer-master"
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/connection.cpp.cpp",
+    "Include": "WebSocketsServer.h",
+    "Includepath": "/home/ivan/Arduino/libraries/WebSockets/src"
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/connection.cpp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/data.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/ota.cpp",
+    "Include": "ArduinoOTA.h",
+    "Includepath": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ArduinoOTA"
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/ota.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_slave_loggps/build/sketch/serverclient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/ESP8266WiFi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/ESP8266WiFiAP.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/ESP8266WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/ESP8266WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/ESP8266WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/ESP8266WiFiScan.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/WiFiClientSecure.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WiFi/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/ArduinoThread/Thread.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/ArduinoThread/ThreadController.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/esp8266FTPServer-master/ESP8266FtpServer.cpp",
+    "Include": "ESP8266WebServer.h",
+    "Includepath": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WebServer/src"
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/esp8266FTPServer-master/ESP8266FtpServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/WebSockets/src/WebSockets.cpp",
+    "Include": "Hash.h",
+    "Includepath": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/Hash/src"
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/WebSockets/src/WebSockets.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/WebSockets/src/WebSocketsClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/WebSockets/src/WebSocketsServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/WebSockets/src/libb64/cdecode.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/WebSockets/src/libb64/cencode.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/Arduino/libraries/WebSockets/src/libsha1/libsha1.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ArduinoOTA/ArduinoOTA.cpp",
+    "Include": "ESP8266mDNS.h",
+    "Includepath": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266mDNS"
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ArduinoOTA/ArduinoOTA.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WebServer/src/ESP8266WebServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266WebServer/src/Parsing.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/Hash/src/Hash.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/Hash/src/sha1/sha1.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/home/ivan/.arduino15/packages/esp8266/hardware/esp8266/2.3.0/libraries/ESP8266mDNS/ESP8266mDNS.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

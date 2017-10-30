@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "/home/ivan/Desktop/arduino-1.8.1/libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.arduinoOTA.path=/home/ivan/.arduino15/packages/arduino/tools/arduinoOTA/1.1.1,runtime.tools.avrdude.path=/home/ivan/.arduino15/packages/arduino/tools/avrdude/6.3.0-arduino9,runtime.tools.avr-gcc.path=/home/ivan/.arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2",
+  "fqbn": "arduino:avr:nano:cpu=atmega328",
+  "hardwareFolders": "/home/ivan/Desktop/arduino-1.8.1/hardware,/home/ivan/.arduino15/packages",
+  "otherLibrariesFolders": "/home/ivan/Arduino/libraries",
+  "runtime.ide.version": "10801",
+  "sketchLocation": "/home/ivan/.arduino15/packages/arduino/hardware/avr/1.6.19/libraries/EEPROM/examples/eeprom_clear/eeprom_clear.ino",
+  "toolsFolders": "/home/ivan/Desktop/arduino-1.8.1/tools-builder,/home/ivan/Desktop/arduino-1.8.1/hardware/tools/avr,/home/ivan/.arduino15/packages"
+}

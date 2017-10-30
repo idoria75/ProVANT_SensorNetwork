@@ -1,0 +1,22 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/ivan/.arduino15/packages/arduino/hardware/avr/1.6.19/cores/arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/home/ivan/.arduino15/packages/arduino/hardware/avr/1.6.19/variants/eightanaloginputs"
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_master_gps/build/sketch/eeprom_clear.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "/home/ivan/.arduino15/packages/arduino/hardware/avr/1.6.19/libraries/EEPROM/src"
+  },
+  {
+    "Sourcefile": "/usr/src/esp_project/esp8266_master_gps/build/sketch/eeprom_clear.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

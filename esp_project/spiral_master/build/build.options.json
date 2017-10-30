@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "/usr/src/esp_project/arduino-1.8.1/libraries",
+  "customBuildProperties": "build.path=/usr/src/esp_project/esp8266_master_gps/build,build.warn_data_percentage=75,runtime.tools.xtensa-lx106-elf-gcc.path=/home/ivan/.arduino15/packages/esp8266/tools/xtensa-lx106-elf-gcc/1.20.0-26-gb404fb9-2,runtime.tools.esptool.path=/home/ivan/.arduino15/packages/esp8266/tools/esptool/0.4.9,runtime.tools.mkspiffs.path=/home/ivan/.arduino15/packages/esp8266/tools/mkspiffs/0.1.2",
+  "fqbn": "esp8266:esp8266:nodemcuv2:CpuFrequency=160,UploadSpeed=921600,FlashSize=4M3M",
+  "hardwareFolders": "/usr/src/esp_project/arduino-1.8.1/hardware,/home/ivan/.arduino15/packages",
+  "otherLibrariesFolders": "/home/ivan/Arduino/libraries",
+  "runtime.ide.version": "10801",
+  "sketchLocation": "/usr/src/esp_project/esp8266_master_gps/src/connection.cpp",
+  "toolsFolders": "/usr/src/esp_project/arduino-1.8.1/tools-builder,/usr/src/esp_project/arduino-1.8.1/hardware/tools/avr,/home/ivan/.arduino15/packages"
+}
